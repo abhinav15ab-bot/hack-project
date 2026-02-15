@@ -1,0 +1,15 @@
+{
+  "project": "ChainShield",
+  "network_deployments": {
+    "ethereum_sepolia": {
+      "chain_id": "11155111",
+      "contract_address": "0xF34C09A1941410e87a778518A817BfA62FaEf6bA",
+      "explorer_url": "https://sepolia.etherscan.io/address/0xF34C09A1941410e87a778518A817BfA62FaEf6bA"
+    },
+    "polygon_amoy": {
+      "chain_id": "80002",
+      "contract_address": "0x......", 
+      "explorer_url": "https://amoy.polygonscan.com/address/0x......"
+    }
+  }
+}
