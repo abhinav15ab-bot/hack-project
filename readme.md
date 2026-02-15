@@ -9,7 +9,7 @@ Our core `ChainShield.sol` contract is live and verified on the following testne
 | Network | Chain ID | Contract Address | Explorer |
 | :------ | :------- | :--------------- | :------- |
 | **Ethereum Sepolia** | `11155111` | `0xF34C09A1941410e87a778518A817BfA62FaEf6bA` | [View on Etherscan](https://sepolia.etherscan.io/address/0xF34C09A1941410e87a778518A817BfA62FaEf6bA) |
-| **Polygon Amoy** | `80002` | `[YOUR AMOY CONTRACT ADDRESS]` | [View on Polygonscan](https://amoy.polygonscan.com/address/[YOUR AMOY CONTRACT ADDRESS]) |
+| **Polygon Amoy** | `80002` | `0x6787B450bFa80786f377B061C638232373DC0DA8` | [View on Polygonscan](https://amoy.polygonscan.com/address/0x6787B450bFa80786f377B061C638232373DC0DA8) |
 
 ## 📄 Contract ABI
 
